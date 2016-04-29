@@ -6,7 +6,7 @@ is to be an example of a site built with Rails.
 ## Getting Started
 
 * Clone or fork this repo
-* Make sure you have Ruby 2.2.2 and Rails 5.0.0.beta4
+* Make sure you have Ruby 2.2.2+ and Rails 5.0.0.beta4
 * Install the gems with `bundle install`
 * Start the server with `rails s`
 
