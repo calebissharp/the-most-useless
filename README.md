@@ -1,4 +1,4 @@
-# Useless Web site
+# The Most Useless Website
 
 This is probably the most useless website in the observable universe. It's purpose, other than nothing, 
 is to be an example of a site built with Rails.
