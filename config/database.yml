@@ -1,23 +1,23 @@
 development:
   adapter: postgresql
-  encoding: utf8
+  encoding: unicode
   database: useless_dev
   pool: 5
-  username: 
-  password:
+  username: useless
+  password: useless
 
 test: &TEST
   adapter: postgresql
-  encoding: utf8
+  encoding: unicode
   database: useless_test
   pool: 5
-  username: 
-  password:
+  username: useless
+  password: useless
 
 production:
   adapter: postgresql
-  encoding: utf8
+  encoding: unicode
   database: useless_prod
   pool: 5
-  username: 
-  password:
+  username: useless
+  password: useless
