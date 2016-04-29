@@ -1,26 +1,24 @@
-     ,-----.,--.                  ,--. ,---.   ,--.,------.  ,------.
-    '  .--./|  | ,---. ,--.,--. ,-|  || o   \  |  ||  .-.  \ |  .---'
-    |  |    |  || .-. ||  ||  |' .-. |`..'  |  |  ||  |  \  :|  `--, 
-    '  '--'\|  |' '-' ''  ''  '\ `-' | .'  /   |  ||  '--'  /|  `---.
-     `-----'`--' `---'  `----'  `---'  `--'    `--'`-------' `------'
-    ----------------------------------------------------------------- 
+# README
 
+This README would normally document whatever steps are necessary to get the
+application up and running.
 
-Hi there! Welcome to Cloud9 IDE!
+Things you may want to cover:
 
-To get you started, we included a small hello world application.
+* Ruby version
 
-1) Open the hello-world.html file
+* System dependencies
 
-2) Click on the Preview button to open a live preview pane
+* Configuration
 
-3) Make some changes to the file, save, watch the preview, and have fun!
+* Database creation
 
-Happy coding!
-The Cloud9 IDE team
+* Database initialization
 
+* How to run the test suite
 
-## Support & Documentation
+* Services (job queues, cache servers, search engines, etc.)
 
-Visit http://docs.c9.io for documentation, or http://support.c9.io for support.
-To watch some training videos, visit http://www.youtube.com/user/c9ide
+* Deployment instructions
+
+* ...
