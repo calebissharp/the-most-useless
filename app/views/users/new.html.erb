@@ -1,0 +1,24 @@
+<div class="row">
+  <div class="col-sm-6 col-sm-offset-3">
+    <h1>Sign up</h1>
+    <%= form_for :user, url: "/users" do |f| %>
+      <fieldset>
+        <div class="form-group">
+          <%= f.text_field :first_name, placeholder: "First Name", class: "form-control" %>
+        </div>
+        <div class="form-group">
+          <%= f.text_field :last_name, placeholder: "Last Name", class: "form-control" %>
+        </div>
+        <div class="form-group">
+          <%= f.text_field :email, placeholder: "Email", class: "form-control" %>
+        </div>
+        <div class="form-group">
+          <%= f.password_field :password, placeholder: "Password", class: "form-control" %>
+        </div>
+        <div class="form-group">
+          <%= f.submit "Sign up", class: "btn btn-primary" %>
+        </div>
+      </fieldset>
+    <% end %>
+  </div>
+</div>
