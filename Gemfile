@@ -25,6 +25,8 @@ gem 'jbuilder', '~> 2.0'
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
 
+gem 'wdm', '>= 0.1.0' if Gem.win_platform?
+
 gem 'pg', '~> 0.18.4'
 
 gem 'bootstrap-sass', '~> 3.3.6'
