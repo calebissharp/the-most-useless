@@ -1,7 +1,5 @@
 # The Most Useless Website
 
-[![Build Status](https://travis-ci.org/epicsharp/the-most-useless.svg?branch=master)](https://travis-ci.org/epicsharp/the-most-useless)
-
 This is probably the most useless website in the observable universe. It's purpose, other than nothing, 
 is to be an example of a site built with Rails.
 
