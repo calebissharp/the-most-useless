@@ -13,6 +13,8 @@
 
 /public/assets/
 
+/node_modules/
+
 # Ignore all logfiles and tempfiles.
 /log/*
 /tmp/*
