@@ -1,11 +1,7 @@
-.universe {
+body {
   background-image: url('universe.jpg');
-  height: 100%;
   background-size: cover;
   background-position: center;
-  position: fixed;
-  width: 100%;
-  z-index: -100;
 }
 
 .box {
