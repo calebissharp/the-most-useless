@@ -11,7 +11,7 @@ module.exports = {
     src: sourceFiles + '/stylesheets/**/*.{sass,scss}',
     dest: publicAssets + '/stylesheets',
     settings: {
-      indentedSyntax: true,
+      indentedSyntax: false,
       imagePath: '/assets/images'
     }
   },
