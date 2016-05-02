@@ -14,6 +14,6 @@ module.exports = {
   end: function(filepath) {
     var taskTime = process.hrtime(startTime);
     var prettyTime = prettyHrtime(taskTime);
-    gutil.log('Bundled', gutil.colors.green(filepath), 'in', gutils.colors.magenta(prettyTime));
+    gutil.log('Bundled', gutil.colors.green(filepath), 'in', gutil.colors.magenta(prettyTime));
   }
 };
