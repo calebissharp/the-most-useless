@@ -1,0 +1,22 @@
+{
+  "name": "the-most-useless",
+  "version": "1.0.0",
+  "description": "This is probably the most useless website in the observable universe. It's purpose, other than nothing, \r is to be an example of a site built with Rails.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RSS-Dev/the-most-useless.git"
+  },
+  "author": "Caleb Sharp",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RSS-Dev/the-most-useless/issues"
+  },
+  "homepage": "https://github.com/RSS-Dev/the-most-useless#readme"
+}
