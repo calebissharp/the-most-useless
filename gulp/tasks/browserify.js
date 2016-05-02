@@ -3,6 +3,7 @@ var browserify = require('browserify');
 var gulp = require('gulp');
 var source = require('vinyl-source-stream');
 var watchify = require('watchify');
+var browserSync = require('browser-sync');
 
 var bundleLogger = require('../util/bundleLogger');
 var handleErrors = require('../util/handleErrors');
