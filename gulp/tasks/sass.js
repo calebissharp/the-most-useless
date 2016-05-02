@@ -15,5 +15,5 @@ gulp.task('sass', function() {
     .pipe(autoprefixer({ browsers: ['last 2 version'] }))
     .pipe(sourcemaps.write())
     .pipe(gulp.dest(config.dest))
-    .pipe(browserSync.reload({ steam: true }));
+    .pipe(browserSync.reload({ stream: true }));
 });
