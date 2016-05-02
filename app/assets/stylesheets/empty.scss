@@ -1,14 +1,7 @@
 @import "bootstrap-sprockets";
 @import "bootstrap";
 
-@import "./**/*";
-
 body, html {
   height: 100%;
   font-family: "Lato", Arial, Helvetica, sans-serif;
-  background: none;
-}
-
-.navbar {
-  border-radius: 0;
 }
