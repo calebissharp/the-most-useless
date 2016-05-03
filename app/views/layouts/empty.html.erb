@@ -4,15 +4,15 @@
     <title>The Most Useless Website</title>
     <%= csrf_meta_tags %>
 
-    <%= javascript_include_tag 'application', 'data-turbolinks-track': 'reload' %>
-
     <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-hQpvDQiCJaD2H465dQfA717v7lu5qHWtDbWNPvaTJ0ID5xnPUlVXnKzq7b8YUkbN" crossorigin="anonymous">
     <link href='https://fonts.googleapis.com/css?family=Lato:400,700' rel='stylesheet' type='text/css'>
 
-    <%= stylesheet_link_tag 'empty', media: 'all', 'data-turbolinks-track': 'reload' %>
+    <link rel="stylesheet" href="assets/stylesheets/empty.css">
   </head>
 
   <body>
     <%= yield %>
+
+    <script src="assets/javascripts/global.js"></script>
   </body>
 </html>
