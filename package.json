@@ -18,6 +18,11 @@
   "bugs": {
     "url": "https://github.com/RSS-Dev/the-most-useless/issues"
   },
+  "browserify": {
+    "transform": [
+      "coffeeify"
+    ]
+  },
   "homepage": "https://github.com/RSS-Dev/the-most-useless#readme",
   "devDependencies": {
     "browser-sync": "^2.12.5",
