@@ -1,14 +1,42 @@
 # The Most Useless Website
 
-This is probably the most useless website in the observable universe. It's purpose, other than nothing, 
-is to be an example of a site built with Rails.
+This is probably the most useless website in the observable universe. It's purpose, other than nothing,
+is to be an example of a site built with Rails, and to be a place for people learning to program to put their ideas.
 
 ## Getting Started
 
 * Clone or fork this repo
-* Make sure you have Ruby 2.2.2+ and Rails 5.0.0.beta4
-* Install the gems with `bundle install`
-* Start the server with `rails s`
+* Make sure you have Ruby 2.2.2+, as well as Node.JS, installed
+* Install the gems
+```
+bundle install
+```
+
+* Install the dependencies from npm
+```
+npm install
+```
+
+* Start the server
+```
+rails s
+```
+
+* Then run gulp to build assets
+```
+gulp
+```
+
+## Features
+This website is for you to contribute your own ideas, and to learn by doing.
+
+Right now, it features:
+
+* Authentication
+* Asset Compilation with Gulp
+
+## Contributing
+If you have an idea, then you can either fork this repo, add it yourself, and then create a pull request, or create an issue. Then, somebody else might implement that for you.
 
 ## License
 The MIT License (MIT)

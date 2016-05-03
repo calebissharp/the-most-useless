@@ -29,8 +29,6 @@ gem 'wdm', '>= 0.1.0' if Gem.win_platform?
 
 gem 'pg', '~> 0.18.4'
 
-gem 'bootstrap-sass', '~> 3.3.6'
-
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 
