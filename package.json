@@ -2,6 +2,10 @@
   "name": "the-most-useless",
   "version": "1.0.0",
   "description": "This is probably the most useless website in the observable universe. It's purpose, other than nothing, \r is to be an example of a site built with Rails.",
+  "engines": {
+    "node": "0.10.36",
+    "npm": "2.3.0"
+  },
   "main": "index.js",
   "directories": {
     "test": "test"
