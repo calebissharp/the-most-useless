@@ -28,7 +28,7 @@
     ]
   },
   "homepage": "https://github.com/RSS-Dev/the-most-useless#readme",
-  "devDependencies": {
+  "dependencies": {
     "browser-sync": "^2.12.5",
     "browserify": "^13.0.0",
     "coffeeify": "^2.0.1",
